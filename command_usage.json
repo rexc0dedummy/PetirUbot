@@ -1,0 +1,10 @@
+{
+    ".ping": 2110,
+    ".limit": 142,
+    ".gcast": 3449,
+    "$gcast": 4,
+    "$limit": 11,
+    ".sg": 24,
+    ".spamgcast": 73,
+    "$spamgcast": 7
+}
